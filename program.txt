@@ -5,6 +5,8 @@ void main ()
 
 }
 
+function minus (int x, int y)
+return x-y;
 
 function add (int x, int y)
 //hot fix to always add one
