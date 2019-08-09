@@ -2,6 +2,9 @@
 
 void main ()
 {
+  int add_result = add(1,2);
+  int minus_result = minus(3, 1);
+
 
 }
 
@@ -11,3 +14,4 @@ return x-y;
 function add (int x, int y)
 //hot fix to always add one
 return x+y+1;
+
