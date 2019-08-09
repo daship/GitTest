@@ -7,4 +7,5 @@ void main ()
 
 
 function add (int x, int y)
-return x+y;
+//hot fix to always add one
+return x+y+1;
