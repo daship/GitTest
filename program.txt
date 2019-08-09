@@ -1,5 +1,10 @@
 
+//intit 
+void main(object args[])
+{
 
+}
 
 function add(int x, int y )
-return x+y;
+//this is a hot fix to always add 1
+return x+y+1;
