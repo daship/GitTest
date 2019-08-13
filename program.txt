@@ -15,3 +15,11 @@ function add (int x, int y)
 //hot fix to always add one
 return x+y+1;
 
+
+
+//mitiplu and devide here 
+xkdfjsldkdfsdfkldsjflsd
+ds
+fsjlfkdskflsfd
+ds
+sdfjksd
